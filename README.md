@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 
 ## Capstone Project
-The [Capstone Project Report.pdf](https://github.com/AlexanderCYchu/Two-Sigma-Financial-Modeling-Challenge-Kaggle/blob/master/MLND%20-%20Machine%20Learning%20Capstone%20Project%20Report.pdf) is the main analysis.
+The [Capstone Project Report.pdf](https://github.com/AlexanderCYchu/Two-Sigma-Financial-Modeling-Challenge-Kaggle/blob/master/Capstone%20Project%20Report.pdf) is the main analysis.
 ### The software and libraries used in the project
 
 - [NumPy](http://www.numpy.org/)
