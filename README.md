@@ -13,7 +13,7 @@ The [Capstone Project Report.pdf](https://github.com/AlexanderCYchu/Two-Sigma-Fi
 - [seaborn](https://github.com/mwaskom/seaborn)
 
 ### What the project is about
-This project is about practicing time series, model tuning and financial data.
+Because I'm interested in financial data. I choose this kaggle challenge as my capstone project in  Udacity's Machine Learning Engineer Nanodegree, to practicing time series, model tuning and financial data.
 
 ### Download the dataset
  [https://www.kaggle.com/c/two-sigma-financial-modeling/data](https://www.kaggle.com/c/two-sigma-financial-modeling/data), put the data file in the same directory, then start the python file.
