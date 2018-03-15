@@ -1,8 +1,11 @@
 # Machine Learning Engineer Nanodegree
 
 ## Capstone Project
-The [Capstone Project Report.pdf](https://github.com/AlexanderCYchu/Two-Sigma-Financial-Modeling-Challenge-Kaggle/blob/master/Capstone%20Project%20Report.pdf) is the main analysis.
 
+### Repository Contents:
+ - `Capstone Project Report.pdf`: Where I put my analysis
+ - `model.py`: The model pipeline
+ - `model_GridSearch_tuning.ipynb`: Where I doing grid search and testing to optimize the model
 ### The software and libraries used in the project
 
 - [NumPy](http://www.numpy.org/)
@@ -13,7 +16,7 @@ The [Capstone Project Report.pdf](https://github.com/AlexanderCYchu/Two-Sigma-Fi
 - [seaborn](https://github.com/mwaskom/seaborn)
 
 ### What the project is about
-Because I'm interested in financial data. I choose this kaggle challenge as my capstone project in  Udacity's Machine Learning Engineer Nanodegree, to practicing time series, model tuning and financial data.
+I'm interested in financial data. I choose this kaggle challenge as my capstone project in  Udacity's Machine Learning Engineer Nanodegree, to practicing time series, model tuning and financial data.
 
 ### Download the dataset
  [https://www.kaggle.com/c/two-sigma-financial-modeling/data](https://www.kaggle.com/c/two-sigma-financial-modeling/data), put the data file in the same directory, then start the python file.
