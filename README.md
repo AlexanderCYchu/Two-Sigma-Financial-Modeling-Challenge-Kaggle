@@ -3,7 +3,7 @@
 ## Capstone Project
 [//]: # (Image References)
 
-[image1]: ./images/performence "performence"
+[image1]: ./images/performence.png "performence"
 ![performence][image1]
 ### Repository Contents:
  - `Capstone Project Report.pdf`: Where I put my analysis
